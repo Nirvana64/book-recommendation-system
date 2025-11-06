@@ -1,6 +1,6 @@
 # Smart Book Recommendation System
 
-A production-ready content-based book recommendation API built with FastAPI, scikit-learn, and Docker. Uses the Goodbooks-10k dataset to recommend similar books based on TF-IDF vectorization and cosine similarity.
+A production content based book recommendation API built with FastAPI, scikit-learn, and Docker. Uses the Goodbooks-10k dataset to recommend similar books based on TF-IDF vectorization and cosine similarity.
 
 ## Features
 
@@ -149,7 +149,7 @@ Uses the [Goodbooks-10k dataset](https://github.com/zygmuntz/goodbooks-10k) cont
 
 ## License
 
-MIT License - feel free to use for your portfolio!
+MIT License
 
 ## Author
 
