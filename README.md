@@ -151,6 +151,3 @@ Uses the [Goodbooks-10k dataset](https://github.com/zygmuntz/goodbooks-10k) cont
 
 MIT License
 
-## Author
-
-Built as a portfolio project demonstrating end-to-end ML engineering skills.
